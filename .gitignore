@@ -28,3 +28,4 @@ node_modules
 *.svg.bkp
 *.svg.dtmp
 *.zip
+.direnv/
