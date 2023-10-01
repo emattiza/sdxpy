@@ -29,3 +29,4 @@ node_modules
 *.svg.dtmp
 *.zip
 .direnv/
+venv/

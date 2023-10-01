@@ -1,0 +1,2 @@
+#!/bin/bash
+nix run github:emattiza/neovim-flake/main#neovimEM "$@"
